@@ -8,6 +8,6 @@ The Controls for the game are as follows:
 <li>PRESS SPACEBAR to shoot the ghosts!</li>
 </ul>
 
-Game was created in the first semester at university with the goal being to create a sidescroller in javascript.
+Game was created in the first semester at university back in 2012 with the goal being to create a sidescroller in javascript.
 
 *Please note the game was created for educational purposes and non commercial use only therefore Fair Use policy applies.
